@@ -1,0 +1,59 @@
+---
+title: "Restoration Ecology"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+BI 469/569 | Fall 2018 | 4 credits
+
+##Overview
+
+
+**Instructor**: **Dr Lauren Hallett** is a plant community ecologist specializing in ecological restoration.  
+**Email**: hallett@uoregon.edu *Please include ENVS410/510 in email subject lines*  
+**Office**: 220 Pacific Hall  
+**Office hours**: TBD, or by appointment  
+
+**Prerequisites**: BI 370 General Ecology. Please check with me if you are missing the requirement. A course in statistics is recommended but not required.
+
+[**Canvas site**](https://canvas.uoregon.edu/courses/103526): Our website is accessible via the UO Canvas server, use your UO email and password to access the site. Problem sets will be distributed and submitted via Canvas. https://canvas.uoregon.edu/
+
+**How I will contact you**: My communication to you outside of class will take place via Canvas email. 
+
+##Course material
+We will use one book in this class, **Foundations of Restoration Ecology (Second Edition)** by Margaret Palmer, Joy Zedler and Donald Falk. This book is available online through the UO Library. The rest of our readings will come from the primary literature and will be posted to Canvas.
+
+##Objectives
+This course focuses on the ecological theories that must be successfully incorporated into restoration practice. **Specific objectives** include:  
+1. To explore the fundamentals of ecological theory.  
+2. To consider the application of these theories in the context of practical attempts to remake, improve, or design damaged ecosystems.  
+3. To examine the principles of scientific inference and to critically apply these principles to both ecological theory and restoration practice.  
+4. To explore specific cases where ecological theory has been successfully applied to restoration practice, versus cases where it has been misunderstood or misused.
+
+**Learning Outcomes.** By completing this course students will be able to:  
+1. Identify and discuss the relevance of scientific ideas for use in a practical
+framework.  
+2. Adapt ideas from theory and provide arguments for whether they are relevant to practical applications or not.  
+3. Evaluate restoration case studies for success or failure in part by assessing their adherence to ecological principles as they are currently understood.  
+
+
+##Structure of the course
+This class combines lectures on foundational topics in restoration ecology with discussion.
+
+##Class assignments and requirements
+There are three main components required for successful completion of the class.
+
+**Reading and synthesis** 
+
+##Policies
+1) All missed classes need to be approved with the instructor prior to the start of class. Unexcused absences will result in the deduction of participation points. 
+
+2) This class includes frequent in-class exercises. I expect all students to actively participate in exercises and discussions. 
+
+3) We will follow school policy of plagiarism and academic dishonesty. All students need to be familiar with the Student Conduct Code (https://policies.uoregon.edu/vol-3-administration-student-affairs/ch-1-conduct/student-conduct-code).
+
+##Course topics and tentative schedule
+The topics on the tentative outline are subject to change. This is a guess, but we will take as long as needed on each lesson.
