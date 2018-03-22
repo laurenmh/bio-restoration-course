@@ -48,7 +48,24 @@ There are three main components required for successful completion of the class.
 
 **Reading and synthesis** Reading - summarize core 
 
+**Mid-term exam**
+
 **Concept review** TREE-style review?
+
+**Peer review**
+
+##Grade allocation
+Grading will be based on a total of 200 points, where 90% of the points will earn an A, 80% a B, etc. Participation will reflect attendance and involvement in discussion and in-class exercises. The breakdown by assignments is as follows: 
+
+Assignment| Points  
+---|---
+**9 Problem sets** (10 pts each) | 90 
+**Final project**|
+Part I: Literature review and proposed workflow | 30 
+Part II: Peer review | 20 
+Part III: Final paper | 40 
+**Participation** | 20 
+
 
 ##Policies
 1) All missed classes need to be approved with the instructor prior to the start of class. Unexcused absences will result in the deduction of participation points. 
@@ -56,6 +73,8 @@ There are three main components required for successful completion of the class.
 2) This class includes frequent in-class exercises. I expect all students to actively participate in exercises and discussions. 
 
 3) We will follow school policy of plagiarism and academic dishonesty. All students need to be familiar with the Student Conduct Code (https://policies.uoregon.edu/vol-3-administration-student-affairs/ch-1-conduct/student-conduct-code).
+
+##Deadlines
 
 ##Course topics and tentative schedule
 The topics on the tentative outline are subject to change. This is a guess, but we will take as long as needed on each lesson.
