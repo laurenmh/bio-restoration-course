@@ -7,14 +7,15 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-BI 469/569 | Fall 2018 | 4 credits
+##BI 469/569 | Fall 2018 | 4 credits
 
 ##Overview
+Ecological restoration is "the process of assisting the recovery of an ecosystem that has been degraded, damaged, or destroyed" (Society for Ecologial Restoration 2004). This is a multidimensional process, informed by philosophical and social questions (e.g., What is "natural?") as well as scientific questions (e.g., How do communities assemble?). This course focuses on the ecological theories that inform the practice of ecological restoration, with linkages to philosophical, social, political and economic factors. 
 
 
 **Instructor**: **Dr Lauren Hallett** is a plant community ecologist specializing in ecological restoration.  
-**Email**: hallett@uoregon.edu *Please include ENVS410/510 in email subject lines*  
-**Office**: 220 Pacific Hall  
+**Email**: hallett@uoregon.edu *Please include BIO 469/569 in email subject lines*  
+**Office**: 220c Pacific Hall  
 **Office hours**: TBD, or by appointment  
 
 **Prerequisites**: BI 370 General Ecology. Please check with me if you are missing the requirement. A course in statistics is recommended but not required.
@@ -33,10 +34,10 @@ This course focuses on the ecological theories that must be successfully incorpo
 3. To examine the principles of scientific inference and to critically apply these principles to both ecological theory and restoration practice.  
 4. To explore specific cases where ecological theory has been successfully applied to restoration practice, versus cases where it has been misunderstood or misused.
 
-**Learning Outcomes.** By completing this course students will be able to:  
-1. Identify and discuss the relevance of scientific ideas for use in a practical
-framework.  
-2. Adapt ideas from theory and provide arguments for whether they are relevant to practical applications or not.  
+##Learning Outcomes
+By completing this course students will be able to:  
+1. Identify and discuss the relevance of scientific ideas for use in a practical framework.  
+2. Adapt ideas from theory and provide arguments for whether they are relevant to practical applications.  
 3. Evaluate restoration case studies for success or failure in part by assessing their adherence to ecological principles as they are currently understood.  
 
 
@@ -44,37 +45,73 @@ framework.
 This class combines lectures on foundational topics in restoration ecology with discussion.
 
 ##Class assignments and requirements
-There are three main components required for successful completion of the class.
+There are four main components required for successful completion of the class.
 
-**Reading and synthesis** Reading - summarize core 
+**Reading and synthesis.** In a typical week, you will be given a background reading, a related scientific paper, and study questions. During the class period we will work our way through the assigned readings in order to better understand the context of the research, its major findings, its flaws and strengths. You will then find another relevant paper, and post for the class a short essay that overviews and contextualize your chosen paper in light of the week's theme.
 
-**Mid-term exam**
+**Mid-term exam.** The midterm will be a take-home exam and will consist primarily of previous study questions and questions raised in class. This is an opportunity for you to think more deeply about the course topics and to demonstrate your progress in understanding the material.
 
-**Concept review** TREE-style review?
+**Concept review.** The final paper will be a review essay in the style of *Trends in Ecology and Evolution* (TREE) on a restoration ecology topic of your choice. 
 
-**Peer review**
+**Peer review.** Each final paper will be formally peer-reviewed by two other students (assigned by the instructor) and revised, along with written responses to reviews. The writing and review process will provide an experience similar to submitting a paper to a journal. Students will be evaluated not only on their final paper, but on the reviews they provided to other students, and their response to reviews received. 
 
 ##Grade allocation
 Grading will be based on a total of 200 points, where 90% of the points will earn an A, 80% a B, etc. Participation will reflect attendance and involvement in discussion and in-class exercises. The breakdown by assignments is as follows: 
 
 Assignment| Points  
 ---|---
-**9 Problem sets** (10 pts each) | 90 
-**Final project**|
-Part I: Literature review and proposed workflow | 30 
-Part II: Peer review | 20 
-Part III: Final paper | 40 
-**Participation** | 20 
+**Weekly syntheses** (8 pts each) | 80 
+**Mid-term exam** | 40 
+**Final paper**|
+Topic proposal | 10 
+ Proposal (first & revised) | 40 
+**Peer review** | 30 
+
 
 
 ##Policies
-1) All missed classes need to be approved with the instructor prior to the start of class. Unexcused absences will result in the deduction of participation points. 
+1) All missed classes need to be approved with the instructor prior to the start of class. Unexcused absences will result in a deduction of points. 
 
 2) This class includes frequent in-class exercises. I expect all students to actively participate in exercises and discussions. 
 
 3) We will follow school policy of plagiarism and academic dishonesty. All students need to be familiar with the Student Conduct Code (https://policies.uoregon.edu/vol-3-administration-student-affairs/ch-1-conduct/student-conduct-code).
 
 ##Deadlines
+Reading syntheses are due to Canvas weekly by 10 am Monday morning
+
+Oct 17: The midterm assigned
+
+Oct 22: The midterm due to Canvas by 10 am 
+
+Nov 7: The first submission of the final paper due to Canvas by 10 am 
+
+Nov 14: First submission reviews due to Canvas by 10 am 
+
+Dec 3: Final papers due to Canvas by 10 am
+
 
 ##Course topics and tentative schedule
-The topics on the tentative outline are subject to change. This is a guess, but we will take as long as needed on each lesson.
+The topics on the tentative outline are subject to change. I expect we will devote one week to each of the following topics:
+
+- Introduction. Restoration ecology and ecological restoration
+
+- Place-based restoration: Boundary setting, reference conditions, goal setting
+
+- Community assembly: Successional, filter, and trait-based models
+
+- Ecosystem dynamics and alternative states: What are realistic objectives for restoration?
+
+- Restoration genetics: How local is local?
+
+- Landscape ecology: How should we draw boundaries in restoration?
+
+- Restoration and climate change: How do we plan for the future?
+
+- Diversity and rarity: How are they important?
+
+- Intervention ecology and novel ecosystems
+
+- People and restoration: Ethics, education, insitutions
+
+
+
