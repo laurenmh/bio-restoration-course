@@ -1,5 +1,5 @@
 ---
-title: "Restoration Ecology"
+title: "Ecological Restoration"
 output: pdf_document
 ---
 
